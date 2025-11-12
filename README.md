@@ -23,7 +23,7 @@ Over the past few months, I’ve been developing modular systems that unify **La
 | [**Llama3 Variant Interpretation**](https://github.com/man4ish/llama3-variant-interpretation) | Automated **variant interpretation pipeline** using VEP, ANNOVAR, and Llama3. | ANNOVAR, VEP, Llama3, Ollama |
 | [**AWS Portfolio Projects**](https://github.com/man4ish/aws-portfolio-projects) | End-to-end **cloud automation and ML deployment** using AWS SageMaker, Glue, Lambda, and Batch. | AWS, SageMaker, Glue, Lambda |
 | [**AI Dev Docker**](https://github.com/man4ish/ai-dev-docker) | Preconfigured **GPU-ready AI development environment** with CUDA, Hugging Face, Ollama, R, and JupyterLab. | Docker, CUDA, PyTorch, Ollama |
-| [**LIMS-X**](https://github.com/man4ish/LIMS-X) | Lightweight **Django LIMS** for tracking biological samples, metadata, and research projects. | Django, Docker, Python, SqlAlchemy |
+| [**LIMS-X**](https://github.com/man4ish/LIMS-X) | Lightweight **Django LIMS** for tracking biological samples, metadata, and research projects. | Django, Docker, Python, SqlAlchemy, MySQL |
 | [**PipelineWorks**](https://github.com/man4ish/pipelineworks) | Collection of **data engineering projects** showcasing scalable ETL pipelines, Airflow orchestration, and Azure workflows. | Airflow, ADF, Databricks, Python |
 
 ---
