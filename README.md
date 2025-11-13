@@ -58,7 +58,7 @@ Over the past few months, I’ve been developing modular systems that unify **La
 
 ### 🌐 Connect
 
-* **LinkedIn:** [linkedin.com/in/manishkumar](https://linkedin.com/in/manishkumar)
+* **LinkedIn:** [linkedin.com/in/manishkumar]([https://linkedin.com/in/manishkumar](https://www.linkedin.com/in/manish-kumar-0160837/))
 * **GitHub:** [github.com/man4ish](https://github.com/man4ish)
 * **Email:** [mandecent.gupta@gmail.com](mailto:mandecent.gupta@gmail.com)
 
