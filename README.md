@@ -50,8 +50,11 @@ Over the past few months, I’ve been developing modular systems that unify **La
 ### 🛠️ Technical Skills
 
 **Languages:** Python, SQL, R, C++, JavaScript
+
 **Frameworks & Tools:** PyTorch, TensorFlow, LangChain, LangGraph, Nextflow, FastAPI, Django
+
 **Cloud & DevOps:** AWS, Azure, Docker, GitHub Actions, CI/CD
+
 **Databases:** MySQL, MongoDB, PostgreSQL
 
 ---
